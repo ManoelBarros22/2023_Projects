@@ -15,9 +15,12 @@ const Calculator = () => {
         SetCurrentValue(prevValue => {
             if(prevValue === '0') {
                 return val
-            }
+            } else {
+                return prevValue + val
+            }    
         })
     }
+    
   return (
     <div className='calculator'>
     <div className="complete-operation">{completeOperation}</div>
