@@ -15,11 +15,12 @@
     margin-bottom: 10px;
     text-align: right;
     padding: 5px;
+    overflow: auto;
 }
 
 .complete-operation {
     height: 30px;
-    overflow: auto;
+   
 }
 
 .buttons {
