@@ -1,0 +1,36 @@
+https://www.udemy.com/course/20-projetos-em-react-js-aprenda-redux-bootstrap-apis/learn/lecture/40288142#overview
+Calculadora         Cronômetro                        Conversor de Moedas             Clima das Cidades
+Citações	    Album de fotos (API da Unplash)   Visualizador de Markdown        Relógio Mundial  		
+Jogo da Velha       Todo com Redux                    Gerador de PDF                  Calculadora de Impostos
+Pomodoro            Carousel                          Tabela Ordenável                Infinite scroll
+Calculadora de IMC  Blog com React e Axios            Formulario multistep com React  Formulario multistep com React e Typescript
+Github Finder (API do Github)  Formulario com Typescript (React Hook Form e Zod)      Jogo de Memória
+Formulário de Newsletter(Tailwind e Typescript)
+
+
+Projetos React
+https://github.com/matheusbattisti/projetos_react
+
+Comece aqui (e mini-curso de React + Typescript) - Desafio 5em5 (React)
+https://www.youtube.com/watch?v=4GB6oixcDEo&list=PL_kvSTSEFm2CwHCtvTk0llGDvM0L2jx3O
+Lista de Tarefas em React (com Typescript) - Projeto 1
+Sistema de Finanças Pessoais em React (com Typescript) - Projeto 2
+Galeria de Fotos em React (com Typescript e Firebase) - Projeto 3
+Jogo RPG em React - Projeto 4
+Formulário multi-etapas em React (com Typescript) - Projeto 5
+
+Projeto Carrinho de Compras com React JS
+https://github.com/manualdodev/shopping-cart?tab=readme-ov-file
+https://www.youtube.com/playlist?list=PLdtmpu_1ITQKuHMG4s0wUMa55OdsYeWw0
+
+CRIANDO PROJETO DO ZERO COM REACTJS ( Buscador CEP )
+https://www.youtube.com/watch?v=oy4cbqE1_qc
+
+
+
+
+
+
+
+
+
