@@ -1,5 +1,7 @@
 https://www.udemy.com/course/20-projetos-em-react-js-aprenda-redux-bootstrap-apis/learn/lecture/40288142#overview
 8 video 3:00
+Update Calculator.jsx
+
 Calculadora         Cronômetro                        Conversor de Moedas             Clima das Cidades
 Citações	    Album de fotos (API da Unplash)   Visualizador de Markdown        Relógio Mundial  		
 Jogo da Velha       Todo com Redux                    Gerador de PDF                  Calculadora de Impostos
