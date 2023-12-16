@@ -27,6 +27,8 @@ const handleOperation = (operation) => {
   setPendingOperation(operation);
   setPendingValue(currentValue);
   setCurrentValue('0');
+  setCurrentValue('0');
+  setCurrentValue('0');
 };
 
 const handleCalculate = () => {
