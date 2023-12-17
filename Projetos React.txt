@@ -2,7 +2,7 @@ https://www.udemy.com/course/20-projetos-em-react-js-aprenda-redux-bootstrap-api
 8 video 3:00
 Update Stopwatch
 
-Calculadora ok      Cronômetro ok                     Conversor de Moedas  ok         Clima das Cidades
+Calculadora ok      Cronômetro ok                     Conversor de Moedas  ok         Clima das Cidades  ok
                                                       Currency converter              city ​​climate
 Citações	    Album de fotos (API da Unplash)   Visualizador de Markdown        Relógio Mundial  		
 Jogo da Velha       Todo com Redux                    Gerador de PDF                  Calculadora de Impostos
@@ -31,13 +31,16 @@ CRIANDO PROJETO DO ZERO COM REACTJS ( Buscador CEP )
 https://www.youtube.com/watch?v=oy4cbqE1_qc
 
 Caleb React
+https://www.youtube.com/watch?v=qp6e0tucEhw&list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3eYJ&index=3
 https://www.youtube.com/watch?v=qp6e0tucEhw&list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3eYJ&index=2
 
 Mão na massa
 https://www.youtube.com/watch?v=yDlZvFhUvEQ&list=PLKcYkp7OuDlGerxicKy1-kT-fPp9v0ICI&index=2
 https://www.youtube.com/watch?v=4xsoConpbeQ&list=PLKcYkp7OuDlGerxicKy1-kT-fPp9v0ICI&index=1
 
-
+Dave Gray
+Introduction to React JS
+https://www.youtube.com/watch?v=TeeAp5zkYnI&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
 
 
 
