@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 import TimerControls from './TimerControls';
 import TimerDisplay from './TimerDisplay';
@@ -10,7 +10,12 @@ const Timer = () => {
   const [milliseconds, setMilliseconds] = useState(0);
   const [timerOn, setTimerOn] = useState(false);
   const [laps, setLaps] = useState([]);
-
+  const startTimer = (interval) => {
+    return setInterval(() => {
+      setMilliseconds(prevMilliseconds => prevMilliseconds + 10);
+    }, 10);
+  };
+  
   useEffect(() => {
     let interval = null;
     if (timerOn) {
@@ -21,11 +26,7 @@ const Timer = () => {
     return () => stopTimer(interval);
   }, [timerOn]);
 
-  const startTimer = (interval) => {
-    return setInterval(() => {
-      setMilliseconds(prevMilliseconds => prevMilliseconds + 10);
-    }, 10);
-  };
+ 
 
   const stopTimer = (interval) => {
     clearInterval(interval);
