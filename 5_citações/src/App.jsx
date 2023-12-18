@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Citacao from "./components/Citacao";
 import citacoes from "./data";
 
