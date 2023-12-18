@@ -9,6 +9,7 @@ function App() {
     setIndice((indiceAtual) => (indiceAtual + 1) % citacoes.length);
   }
 
+  
   return (
     <div className="container mt-5">
       <Citacao texto={citacoes[indice].texto} autor={citacoes[indice].autor} />
