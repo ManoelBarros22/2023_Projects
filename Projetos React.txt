@@ -44,9 +44,12 @@ video 4 contem github
 React useState Hook
 https://www.youtube.com/watch?v=P9ELDeqNToo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=6
 
-ATUAL
-https://www.youtube.com/watch?v=s4dCiHvU-Pw&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=5
+ATUAL  11:09
+https://www.youtube.com/watch?v=Fcj6DQT3nVA&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=7
 
+
+Higher Order Functions Javascript | forEach, filter, map, and reduce functions
+https://www.youtube.com/watch?v=7BeT6lsudL4&t=0s
 
 
 
