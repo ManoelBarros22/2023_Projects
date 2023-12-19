@@ -2,6 +2,7 @@ import { useState } from 'react'
 
 const Content = () => {
     const [name, setName] = useState('Manoel')
+    const [count, setCount] = useState(0)
     const handleNameChange = () => {
         const names = ['MP', 'Lucy', 'Rod', 'Manoel']
         const int = Math.floor(Math.random() * 4)
@@ -10,7 +11,7 @@ const Content = () => {
 
  
 
-    const handleClick2 = () => {
+    const handleClick = () => {
     }
 
     const handleClick3 = () => {
@@ -22,8 +23,8 @@ const Content = () => {
         Hello {name}!
       </p>
       <button onClick={handleNameChange}>Change Name</button>
-      <button onClick={() => handleClick2('Manoel')}>Click it2</button>
-      <button onClick={(e) => handleClick3(e)}>Click it3</button>
+      <button onClick={handleClick}>Click it2</button>
+      <button onClick={handleClick3}>Click it3</button>
     </main>
   )
 }
