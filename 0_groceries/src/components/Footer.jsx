@@ -2,7 +2,7 @@ const Footer = () => {
     const today = new Date()
   return (
     <footer>
-      
+      <p>Copyright </p>
     </footer>
   )
 }
