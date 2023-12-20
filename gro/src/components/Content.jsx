@@ -49,7 +49,7 @@ const Content = () => {
                             onDoubleClick={() => handleCheck(item.id)}
                         >{item.item}</label>
                         <FaTrashAlt 
-                            onClick=
+                            onClick={() => handleDelete(item.id)}
                             role="button" 
                             tabIndex="0" 
                         />                      
