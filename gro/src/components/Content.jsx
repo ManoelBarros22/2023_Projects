@@ -1,5 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
-/* eslint-disable react/jsx-no-comment-textnodes */
 import { useState } from 'react';
 import { FaTrashAlt } from 'react-icons/fa';
 
