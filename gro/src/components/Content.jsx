@@ -49,6 +49,7 @@ const Content = () => {
                             onDoubleClick={() => handleCheck(item.id)}
                         >{item.item}</label>
                         <FaTrashAlt 
+                            onClick=
                             role="button" 
                             tabIndex="0" 
                         />                      
