@@ -7,7 +7,7 @@ const Content = () => {
     const [items, setItems] = useState([
         {
             id: 1,
-            checked: false,
+            checked: true,
             item: "One half pound bag of Cocoa Covered Almonds Unsalted"
         },
         {
