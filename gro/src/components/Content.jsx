@@ -36,10 +36,10 @@ const Content = () => {
 
     return (
         <main>
-            {items.length ?}      
-            <ul>
-                {items.map((item) => (
-                    <li className="item" key={item.id}>
+            {items.length ? (      
+                <ul>
+                    {items.map((item) => (
+                        <li className="item" key={item.id}>
                         <input
                             type="checkbox" 
                             onChange={() => handleCheck(item.id)}                           
@@ -54,9 +54,12 @@ const Content = () => {
                             role="button" 
                             tabIndex="0" 
                         />                      
-                    </li>
-                ))}
-            </ul>
+                        </li>
+                    ))}
+                </ul>
+            ) : (
+                <p style={{ marginTop: '2rem'}}>Your list is empty.</p>
+            )}
         </main>
     )
 }
