@@ -35,7 +35,8 @@ const Content = () => {
     }
 
     return (
-        <main>       
+        <main>
+            {items.length ?}      
             <ul>
                 {items.map((item) => (
                     <li className="item" key={item.id}>
