@@ -44,15 +44,19 @@ video 4 contem github
 React useState Hook
 https://www.youtube.com/watch?v=P9ELDeqNToo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=6
 
-ATUAL  11:09
+ATUAL  23:20
 https://www.youtube.com/watch?v=Fcj6DQT3nVA&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=7
 
 
 Higher Order Functions Javascript | forEach, filter, map, and reduce functions
 https://www.youtube.com/watch?v=7BeT6lsudL4&t=0s
 
+JavaScript LocalStorage and Session Storage API Tutorial
+https://www.youtube.com/watch?v=zmFDvFwj6-8&t=0s
+
 groceries
 react icons
+https://www.npmjs.com/package/react-icons
 npm install react-icons --save  npm i react-icons
 
 
