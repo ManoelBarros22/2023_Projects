@@ -4,13 +4,22 @@ const Content = () => {
         const int = Math.floor(Math.ramdom() * 3)
         return names[int]
     }
+
+    const handleClick = () => {
+            console.log("You clicked it")
+    }
     
     return (
-    <main>
-        <p>
-           {/* Hello {handleNameChange()}! */}
-        </p>
-    </main>
+      
+        <main>
+                <p>
+                    {/* Hello {handleNameChange()}! */}
+                </p>
+                <button onClick=>Click1</button>
+            </main>
+    
+   
+
     )
 }
 
