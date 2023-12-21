@@ -44,7 +44,8 @@ video 4 contem github
 React useState Hook
 https://www.youtube.com/watch?v=P9ELDeqNToo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=6
 
-ATUAL  10:50
+ATUAL  1:46
+https://www.youtube.com/watch?v=s4dCiHvU-Pw&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=5
 https://www.youtube.com/watch?v=XyIXMQ9SZmI&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=8
 
 
