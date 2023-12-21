@@ -10,7 +10,7 @@ const Content = () => {
         <p>
            {/* Hello {handleNameChange()}! */}
         </p>
-    </main>123456
+    </main>
     )
 }
 
