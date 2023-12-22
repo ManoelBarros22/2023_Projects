@@ -9,7 +9,7 @@ const Content = () => {
     }
 
     const handleClick1 = () => {
-            console.log("You clicked it")
+            console.log("You ccclicked it")
     }
 
     const handleClick2 = () => {
