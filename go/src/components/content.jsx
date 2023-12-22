@@ -9,7 +9,8 @@ const Content = () => {
             console.log("You clicked it")
     }
 
-    const handleClick2 = (name) => {
+    const handleClick2 = () => {
+        
             console.log("You clicked it")
     }
     
@@ -21,7 +22,7 @@ const Content = () => {
                     {/* Hello {handleNameChange()}! */}
                 </p>
                 <button onClick={handleClick1}>Click1</button>
-                <button onClick={() => handleClick2}>Click2</button>
+                <button onClick={handleClick2}>Click2</button>
             </main>
     
    
