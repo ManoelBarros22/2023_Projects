@@ -15,7 +15,7 @@ const Content = () => {
                 <p>
                     {/* Hello {handleNameChange()}! */}
                 </p>
-                <button onClick=>Click1</button>
+                <button onClick={handleClick}>Click1</button>
             </main>
     
    
