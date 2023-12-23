@@ -3,7 +3,7 @@ const Content = () => {
   return (
     <main>
       <h1>ola</h1>
-       {/* <p>Oi {handleNameChange()}!</p> */}
+       <p>Oi {handleNameChange()} !</p>
     </main>
   )
 }
