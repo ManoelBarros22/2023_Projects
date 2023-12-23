@@ -3,3 +3,6 @@ export const handleNameChange = () => {
     const int = Math.floor(Math.random() * 5)
     return names[int]
 }
+export const handleClick = () => {
+    
+}
