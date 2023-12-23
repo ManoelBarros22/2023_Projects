@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
+  const name = "Manoel"
   const [count, setCount] = useState(0)
 
   return (
@@ -28,6 +29,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>{name}</p>
     </>
   )
 }
