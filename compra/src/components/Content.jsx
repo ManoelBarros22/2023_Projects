@@ -1,4 +1,4 @@
-import { handleNameChange } from '../src/utils'
+import { handleNameChange } from '../utils'
 const Content = () => {
   return (
     <main>
