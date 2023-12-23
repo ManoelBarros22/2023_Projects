@@ -4,5 +4,5 @@ export const handleNameChange = () => {
     return names[int]
 }
 export const handleClick = () => {
-    
+
 }
