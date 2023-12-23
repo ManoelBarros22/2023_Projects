@@ -3,7 +3,7 @@ const Content = () => {
   return (
     <main>
     <p>Olá {handleNameChange()} !</p>
-    <button onClick={handleClick456}>Click It</button>
+    <button onClick={handleClick}>Click It</button>
     </main>
   )
 }
