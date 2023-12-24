@@ -60,4 +60,6 @@ react icons
 https://www.npmjs.com/package/react-icons
 npm install react-icons --save  npm i react-icons
 
+JavaScript Tutorial for Beginners: Quick Start
+https://www.youtube.com/watch?v=SajRjc9KKUE&list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 
