@@ -2,11 +2,11 @@ import { useState } from 'react';
 import Header from './components/Header';
 import Content from './components/Content';
 import Footer from './components/Footer';
-
+import AddItem from './components/AddItem';
 function App() {
   const [items, setItems] = useState([
     {
-        id: 11,
+        id: 1,
         checked: true,
         item: "One half pound bag of Cocoa Covered Almonds Unsalted"
     },
@@ -36,6 +36,7 @@ const handleDelete = (id) => {
   return (
     <div className="App">
       <Header title="Goceries" />
+      <AddItem />
       <Content
         items={items}
         handleCheck={handleCheck}
