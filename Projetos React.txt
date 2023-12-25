@@ -44,9 +44,10 @@ video 4 contem github
 React useState Hook
 https://www.youtube.com/watch?v=P9ELDeqNToo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=6
 
-ATUAL  1:46
+ATUAL 9
 https://www.youtube.com/watch?v=s4dCiHvU-Pw&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=5
 https://www.youtube.com/watch?v=XyIXMQ9SZmI&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=8
+https://www.youtube.com/watch?v=r5ombQn3fHY&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=9
 
 
 Higher Order Functions Javascript | forEach, filter, map, and reduce functions
@@ -63,3 +64,5 @@ npm install react-icons --save  npm i react-icons
 JavaScript Tutorial for Beginners: Quick Start
 https://www.youtube.com/watch?v=SajRjc9KKUE&list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 
+Introdução a Algoritmos
+https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV

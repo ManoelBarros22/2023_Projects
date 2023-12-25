@@ -1,2 +1,3 @@
 npm start
 npm i react-icons --save
+shortcut rafce estrutura inicial arrow function component
