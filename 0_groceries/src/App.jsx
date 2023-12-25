@@ -23,9 +23,14 @@ function App() {
 ]);
 const [newItem, setNewItem] = useState('')
 
+const setAndSaveItems = (newItems) => {
+  setItems(newItems);
+  localStorage.setItem('shoppinglist', JSON.stringify(newItems));
+}
+
 const addItem = (item) => {
   const id = items.length ? items[items.length - 1].id + 1 : 1
-  const mynewItem = { id, checked: false, item }
+  const myNewItem = { id, checked: false, item }
   const ListItems = [...items, myNewItem]
 }
 
