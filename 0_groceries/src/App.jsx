@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 function App() {
   const [items, setItems] = useState([
     {
-        id: 1,
+        id: 11,
         checked: true,
         item: "One half pound bag of Cocoa Covered Almonds Unsalted"
     },
