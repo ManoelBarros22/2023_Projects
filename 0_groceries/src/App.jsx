@@ -3,9 +3,12 @@ import Header from './components/Header';
 import Content from './components/Content';
 import Footer from './components/Footer';
 import AddItem from './components/AddItem';
+import SearchItem from './components/SearchItem';
+
 function App() {
   const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist')));
 const [newItem, setNewItem] = useState('')
+const [search, setSearch] = useState('')
 
 const setAndSaveItems = (newItems) => {
   setItems(newItems);
@@ -46,8 +49,12 @@ const handleSubmit = (e) => {
         setNewItem={setNewItem}
         handleSubmit={handleSubmit}
       />
+      <SearchItem
+        search={search}
+        setSearch={setSearch}
+      />
       <Content
-        items={items}
+        items={items.filter(item => ((item.item).toLowerCase()).includes(search.toLowerCase()))}
         handleCheck={handleCheck}
         handleDelete={handleDelete}
       />
