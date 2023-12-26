@@ -40,12 +40,13 @@ https://www.youtube.com/watch?v=4xsoConpbeQ&list=PLKcYkp7OuDlGerxicKy1-kT-fPp9v0
 
 Dave Gray
 Introduction to React JS
+https://www.youtube.com/watch?v=TeeAp5zkYnI&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=1
 video 4 contem github
 React useState Hook
 https://www.youtube.com/watch?v=P9ELDeqNToo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=6
 
-ATUAL 10
-https://www.youtube.com/watch?v=oWIqiVAK1Wo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=10
+ATUAL 11
+https://www.youtube.com/watch?v=j3vk0FW71DM&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=11
 https://www.youtube.com/watch?v=s4dCiHvU-Pw&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=5
 https://www.youtube.com/watch?v=XyIXMQ9SZmI&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=8
 
