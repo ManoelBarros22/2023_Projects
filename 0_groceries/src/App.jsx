@@ -10,6 +10,8 @@ function App() {
 const [newItem, setNewItem] = useState('')
 const [search, setSearch] = useState('')
 
+useEffect(())
+
 const setAndSaveItems = (newItems) => {
   setItems(newItems);
   localStorage.setItem('shoppinglist', JSON.stringify(newItems));
