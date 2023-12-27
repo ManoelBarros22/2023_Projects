@@ -6,17 +6,17 @@ import AddItem from './components/AddItem';
 import SearchItem from './components/SearchItem';
 
 function App() {
-  const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist')));
+  const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist')) || []);
 const [newItem, setNewItem] = useState('')
 const [search, setSearch] = useState('')
 
 useEffect(() => {
-  
-},[])
+  localStorage.setItem('shoppinglist', JSON.stringify(newItems));
+},[items])
 
 const setAndSaveItems = (newItems) => {
   setItems(newItems);
-  localStorage.setItem('shoppinglist', JSON.stringify(newItems));
+  
 }
 
 const addItem = (item) => {
