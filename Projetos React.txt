@@ -46,7 +46,7 @@ React useState Hook
 https://www.youtube.com/watch?v=P9ELDeqNToo&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=6
 
 ATUAL 11
-https://www.youtube.com/watch?v=j3vk0FW71DM&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=11
+https://www.youtube.com/watch?v=_Fx6GDuIo1A&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp&index=12
 
 
 Higher Order Functions Javascript | forEach, filter, map, and reduce functions
@@ -68,8 +68,20 @@ https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqv
 
 HTML CSS JS projects (Beginner): 16 projects using HTML CSS and JavaScript
 https://www.youtube.com/watch?v=EWv2jnhZErc
+https://www.100jsprojects.com/
+50 HTML CSS JavaScript Projects
+https://www.youtube.com/watch?v=1r6A2c2CdUU&list=PLXVXNAh1FzAnJf17K1l6dr3K5ggoZLl6e
 
 
+From Zero to Full Stack: Master JavaScript and Create Dynamic Web Apps
+https://www.youtube.com/watch?v=H3XIJYEPdus
+
+HTML5, CSS3 and JavaScript 100+ Projects For Beginners
+https://www.youtube.com/playlist?list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w
+https://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projectshttps://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projects
+
+Master ReactJS in 7 Hours with 10 Real-World Projects 2023
+https://www.youtube.com/watch?v=XrwsMN2IWnE
 
 
 
