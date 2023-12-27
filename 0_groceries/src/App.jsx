@@ -10,7 +10,9 @@ function App() {
 const [newItem, setNewItem] = useState('')
 const [search, setSearch] = useState('')
 
-useEffect(())
+useEffect(() => {
+  console.log('render')
+},[])
 
 const setAndSaveItems = (newItems) => {
   setItems(newItems);
