@@ -2,3 +2,4 @@ npm i colornames -S
 
 papayawhip #FFEFD5
 dodgerblue #1E90FF
+https://www.npmjs.com/package/colornames
