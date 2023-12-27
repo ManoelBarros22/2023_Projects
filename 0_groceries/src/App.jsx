@@ -11,7 +11,7 @@ const [newItem, setNewItem] = useState('')
 const [search, setSearch] = useState('')
 
 useEffect(() => {
-  console.log('render')
+  
 },[])
 
 const setAndSaveItems = (newItems) => {
