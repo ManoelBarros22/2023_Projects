@@ -11,10 +11,6 @@ const [newItem, setNewItem] = useState('')
 const [search, setSearch] = useState('')
 
 useEffect(() => {
-
-})
-
-useEffect(() => {
   localStorage.setItem('shoppinglist', JSON.stringify(items));
 }, [items])
 
