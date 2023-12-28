@@ -7,13 +7,13 @@ import SearchItem from './components/SearchItem';
 
 function App() {
   const API_URL = 'http://localhost:3500/items'
-  
-  const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist')) || [])
+
+  const [items, setItems] = useState([])
 const [newItem, setNewItem] = useState('')
 const [search, setSearch] = useState('')
 
 useEffect(() => {
-  localStorage.setItem('shoppinglist', JSON.stringify(items));
+  
 }, [items])
 
 const addItem = (item) => {
