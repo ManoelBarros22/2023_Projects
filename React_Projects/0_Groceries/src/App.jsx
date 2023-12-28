@@ -6,7 +6,9 @@ import AddItem from './components/AddItem';
 import SearchItem from './components/SearchItem';
 
 function App() {
-  const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist')) || []);
+  const API_URL = 'http://localhost:3500/items'
+  
+  const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist')) || [])
 const [newItem, setNewItem] = useState('')
 const [search, setSearch] = useState('')
 
