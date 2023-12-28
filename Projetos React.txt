@@ -79,6 +79,9 @@ https://www.youtube.com/watch?v=H3XIJYEPdus
 HTML5, CSS3 and JavaScript 100+ Projects For Beginners
 https://www.youtube.com/playlist?list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w
 https://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projectshttps://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projects
+https://github.com/HuXn-WebDev
+HuXn
+
 
 Master ReactJS in 7 Hours with 10 Real-World Projects 2023
 https://www.youtube.com/watch?v=XrwsMN2IWnE
