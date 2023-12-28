@@ -14,6 +14,11 @@ const [search, setSearch] = useState('')
 
 useEffect(() => {
   
+  const fetchItems = async () => {
+    try {
+      
+    }
+  }
 }, [items])
 
 const addItem = (item) => {
