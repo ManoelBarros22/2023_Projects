@@ -29,7 +29,6 @@ useEffect(() => {
       setIsLoading(false)
     }
   }
-
   setTimeout(() => {
     (async () => await fetchItems())()
   }, 2000)
