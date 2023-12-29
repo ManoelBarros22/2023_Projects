@@ -76,7 +76,7 @@ function App() {
     const deleteOptions = { method: 'DELETE' };
     const reqUrl = `${API_URL}/${id}`;
     const result = await apiRequest(reqUrl, deleteOptions);
-    if (result) setFetchError(result);
+    if (result) setFetchError(result);  
   }
 
   const handleSubmit = (e) => {
