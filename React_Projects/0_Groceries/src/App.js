@@ -79,7 +79,7 @@ function App() {
     if (result) setFetchError(result);  
   }
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e) => {  
     e.preventDefault();
     if (!newItem) return;
     addItem(newItem);
