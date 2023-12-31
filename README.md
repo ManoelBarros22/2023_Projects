@@ -1,10 +1,9 @@
 # "2023 Projects"
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 ## Description:
 
-Repository of project compilation.   
+✅ Repository of project compilation.   
 
 ---
 
