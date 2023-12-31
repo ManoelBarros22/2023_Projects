@@ -1,6 +1,9 @@
 # "2023 Projects"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+# Titulo
+## sub titulo
+### sub sub
 
 **Description: 222**
 
@@ -9,12 +12,13 @@ This repository shares the styles applied during the Youtube tutorial. The tutor
 ---
 
 ### 💻 Links to Courses & Tutorials:
+## HTML CSS JS Projects
 
-**HTML CSS JS Projects**
 <p align="left">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />HTML CSS JS Projects
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    ## HTML CSS JS Projects
 </p>
     <a href="https://youtu.be/gieEQFIfgYc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
     <a href="https://youtu.be/CvUiKWv2-C0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
