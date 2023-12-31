@@ -30,6 +30,10 @@ This repository shares the styles applied during the Youtube tutorial. The tutor
 ## React Projects
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
     
+### Índice
+- 1
+- 2
+- 3
     
    
     
